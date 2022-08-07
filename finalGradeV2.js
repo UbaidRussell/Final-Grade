@@ -17,5 +17,5 @@ let average = (num1 + num2 + num3) / 3;
 
 console.log(finalGrade(99, 92, 95)) // Should print 'A'
 
-//The difference between this code file and v1 is that in the first version we did not check each number for less than 0 and greater than 100. 
-//We only checked for the first number
+//The difference between this code file and v1 is that in the first version we did not check each num for less than 0 and greater than 100. 
+//We only checked for the first num, so our program didn't complete the goal. 
