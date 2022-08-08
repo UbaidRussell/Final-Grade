@@ -1,3 +1,4 @@
+//Version 2.0
 function finalGrade(num1, num2, num3){
 let average = (num1 + num2 + num3) / 3;
    if ((num1 < 0 || num1 > 100) || (num2 < 0 || num2 > 100) ||   (num3 < 0 || num3 > 100)) {
