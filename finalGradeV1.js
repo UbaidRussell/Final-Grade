@@ -1,3 +1,6 @@
+//Version 1.0 
+
+
 function finalGrade(num1, num2, num3){
 
   let average = (num1 + num2 + num3) / 3;
