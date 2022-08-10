@@ -1,5 +1,5 @@
 # Final-Grade-v1
-Write a function, finalGrade(). It should:
+Write a finalGrade() function that should:
 
 -Take three arguments of type number  <br />
 -find the average of those three numbers  <br />
